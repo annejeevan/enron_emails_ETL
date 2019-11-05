@@ -1,2 +1,2 @@
-# enron_emails_ETL
+# Enron Emails ETL
 Parsing Enron emails and loading to a database
